@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Tower-Run.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../:\Unity Projects\Tower-Run\.idea\.idea.Tower-Run\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
